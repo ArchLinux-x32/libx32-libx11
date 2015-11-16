@@ -1,4 +1,4 @@
-# $Id: PKGBUILD 129545 2015-03-18 18:27:18Z lcarlier $
+# $Id$
 # Maintainer: Jan de Groot <jgc@archlinux.org>
 
 _pkgbasename=libx11
